@@ -19,4 +19,4 @@ Não segue critérios rígidos de design ou conteúdo — o foco aqui é **exper
 
 1. Baixe ou clone este repositório:
 
-   git clone https://github.com/SEU-USUARIO/introducao-ao-css.git
+   git clone https://github.com/tatifferr/introducao-ao-css.git
